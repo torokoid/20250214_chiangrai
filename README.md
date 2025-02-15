@@ -174,7 +174,7 @@ p.note { display: none; }
 <h2><span class="yellow">夕方5時過ぎに大学を退出</span></h2>
 <a href="20250214_022.JPG" target="_blank"><img src="20250214_022.JPG" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">不法移民の検問ゲートは下り側はノーチェック</span></h2>
+<h2><span class="yellow">不法入国者の検問ゲートは下り側はノーチェック</span></h2>
 <a href="20250214_023.JPG" target="_blank"><img src="20250214_023.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">メーチャンの夕焼けグラデーションは見事でした</span></h2>
