@@ -189,7 +189,7 @@ p.note { display: none; }
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PzSbB41o2go?si=o7Eiel0k6nekZ2_8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
 
 
-<h2><span class="yellow">最後になりましたが、10日から13日にかけての移動経路を忘れないうちに記載<br>画像のクリックでおおまかに再現したGoogleMapsに飛びます</span></h2>
+<h2><span class="yellow">最後になりましたが、10日から13日にかけての移動経路を忘れないうちに記載<br>画像のクリックでおおまかに再現したGoogleMapsに飛びます<br>総移動距離は約650kmでした</span></h2>
 <a href="https://www.google.com/maps/dir/20.1944758,99.9031195/18.7722696,98.9747821/20.1946515,99.9036465/20.273189,100.4129506/1016/@19.6258093,98.8978386,8z/data=!4m32!4m31!1m0!1m0!1m15!3m4!1m2!1d99.9531177!2d20.1831791!3s0x30d656fc062aa5d1:0xc1bb6af4efb0789!3m4!1m2!1d100.1270591!2d20.1141601!3s0x30d64c34a4870629:0x806f33c95c9dd8f4!3m4!1m2!1d100.4148225!2d20.215044!3s0x30d63a9ee02be62f:0xbefee5643fddb42c!1m5!3m4!1m2!1d100.0881607!2d20.2738034!3s0x30d6452911eb041d:0x50bc4f4b7e236ace!1m5!1m1!1s0x30d657d538712727:0x996677c93dc17642!2m2!1d99.9030544!2d20.1944506!3e0!5m1!1e2?authuser=0&entry=ttu&g_ep=EgoyMDI1MDIxMi4wIKXMDSoJLDEwMjExNDU1SAFQAw%3D%3D" target="_blank"><img src="20250210~13_移動経路.png" alt="サンプル画像" width="900" /></a>
 
 
